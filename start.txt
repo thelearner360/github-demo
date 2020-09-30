@@ -1,2 +1,1 @@
-Test GIT quick start demo
-Test GIT file for demo
+Test quick start file for GIT demo
